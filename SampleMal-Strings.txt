@@ -1,0 +1,303 @@
+!This program cannot be run in DOS mode.
+-Rich
+.text
+`.rdata
+@.data
+MZu3
+VVVVV
+VVVVV
+YYuTVWh
+VVVVV
+PPPPP
+<Yv8V
+VVVVV
+VVVVV
+VVVVV
+]_^[Y
+S99t
+~du	
+>=Yt/j
+tJVUP
+SSSSS
+Y]_^[
+>"u&
+< tK<	tG
+SUVW
+SSS+
+@PVSS
+t#SSUP
+t$$VSS
+_^][YY
+j(j ^V
+Rj(j 
+F9=D
+YYt:V
+Y;=X
+tehq%@
+YYt4V
+VVVVV
+VVVVV
+h0)@
+Y__^[
+\$ UV
+_^][
+9csm
+t!h<
+T$(j
+D$,9h
+QSUVW
+YYr|
+YYt+
+_^][Y
+9MZt
+h^1@
+t+Ht
+PPPPP
+WWWWW
+ SVW
+SSSSS
+tm95
+SSSSS
+0SSSSS
+_^[]
+0SSSSS
+0SSSSS
+VVVVV
+t	VP
+Yu'9
+YYu-9D$
+SUVW
+_^][
+0A@@Ju
+Fh=P
+Wto=@
+t^9(uZ
+tD9(u@
+Y_^][
+_^][
+Fpt"
+ueSj
+@_^[
+ VW}
+j?^;
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+hcT@
+_^[]
+WWWWW
+WWWWW
+uaVj
+uL9=d
+wIVSP
+FVSj
+u8SS3
+9]$SS
+t)9]
+t"9]
+9] u
+9] SS
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+v$;5d
+PPPPPPPP
+t&:a
+PPPPPPPP
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+WWWWV
+t<Vj
+t+WWVPV
+WWWWW
+<Xt	
+u,9u
+v	N+D$
+^_[3
+CorExitProcess
+mscoree.dll
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6034
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+R6033
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+R6032
+- not enough space for locale information
+R6031
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+R6030
+- CRT not initialized
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+EncodePointer
+KERNEL32.DLL
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+InitializeCriticalSectionAndSpinCount
+kernel32.dll
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+InternetCloseHandle
+FtpGetFileW
+InternetConnectW
+InternetOpenW
+InternetAttemptConnect
+WININET.dll
+WaitForSingleObject
+CreateProcessW
+DeleteFileW
+GetCommandLineA
+HeapFree
+GetVersionExA
+HeapAlloc
+GetProcessHeap
+GetProcAddress
+GetModuleHandleA
+ExitProcess
+WriteFile
+GetStdHandle
+GetModuleFileNameA
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetLastError
+GetEnvironmentStringsW
+SetHandleCount
+GetFileType
+GetStartupInfoA
+DeleteCriticalSection
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+GetCurrentThreadId
+InterlockedDecrement
+HeapDestroy
+HeapCreate
+VirtualFree
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+LeaveCriticalSection
+EnterCriticalSection
+TerminateProcess
+GetCurrentProcess
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+LoadLibraryA
+InitializeCriticalSection
+Sleep
+GetCPInfo
+GetACP
+GetOEMCP
+VirtualAlloc
+HeapReAlloc
+RtlUnwind
+HeapSize
+MultiByteToWideChar
+GetLocaleInfoA
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+KERNEL32.dll
+_zej
+1J1|
+2$p{
+]FbL
+beB!
+9Iy3)+
+*aah
+sfc%
+] Gx
+zA6Lv
+vSnN
+0J 8MNG
+cN5c
+nr4k
+ZqhU5
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
